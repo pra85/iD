@@ -58,7 +58,6 @@ iD.MapillaryImageLayer = function(context) {
         }
 
         imageData.load(images);
-        render();
     }
 
     function render() {
